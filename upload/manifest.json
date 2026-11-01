@@ -1,0 +1,16 @@
+{
+    "type": "language_pack",
+    "name": "language-pack-de-de",
+    "full_code": "crm.language-pack-de-de",
+    "vendor": "crm",
+    "code": "de-de",
+    "title": "German Language Pack (Deutsch)",
+    "native_name": "Deutsch",
+    "direction": "ltr",
+    "author": "Anton Barinov",
+    "version": "1.0.1",
+    "category": "localization",
+    "min_crm_version": "20260928.001",
+    "description": "TropaTT CRM German localization package. Includes pack-specific supplemental web translations.",
+    "signature": "b0093ec0b116ce93d77d5b9c33e41d27309c79cbb2494777e46de3a360f380d4"
+}
